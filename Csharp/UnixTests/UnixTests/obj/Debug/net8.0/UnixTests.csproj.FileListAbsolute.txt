@@ -1,0 +1,5 @@
+F:\1\UnixTests\Csharp\UnixTests\UnixTests\obj\Debug\net8.0\UnixTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\1\UnixTests\Csharp\UnixTests\UnixTests\obj\Debug\net8.0\UnixTests.AssemblyInfoInputs.cache
+F:\1\UnixTests\Csharp\UnixTests\UnixTests\obj\Debug\net8.0\UnixTests.AssemblyInfo.cs
+F:\1\UnixTests\Csharp\UnixTests\UnixTests\obj\Debug\net8.0\UnixTests.csproj.CoreCompileInputs.cache
+F:\1\UnixTests\Csharp\UnixTests\UnixTests\obj\Debug\net8.0\UnixTests.sourcelink.json
